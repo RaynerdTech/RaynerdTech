@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaynerdTech
-- 👀 I’m interested in colaborating in projects and also looking to be hired as a front-end developer and tutor.
+- 👀 I’m interested in colaborating in projects and also looking to be hired as a full-stack developer and as a tutor.
 - 🌱 I’m currently learning backend and others programming languages
 - 💞️ I’m looking to collaborate on front-end development projects
 - 📫 Reach out to me on my linkedIn www.linkedin.com/in/raynerd-tech-703101288
